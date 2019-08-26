@@ -31,3 +31,21 @@ A presente atividade prática abordará a modelagem estocástica do preço, soma
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+2+-+Teoria+do+Portfolio+de+Markowitz,+Correla%C3%A7%C3%A3o+Matricial+e+DBSCAN.html" >Aula 2 - Teoria Moderna do Portfolio de Markowitz</a>
 A presente atividade prática abordará a aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da fronteira de eficiência, portfolio de menor risco, de maior Sharpe e da linha de mercado de capitais. Adicionamente, a atividade envolve a identificação das correlações das principais bolsas mundiais e uma clusterização não supervisionada, com a técnica de machine learning, denominada DBSCAN.
 
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/edit/master/README.md" >Aula 3 - Em contrução!!!!!</a>
+
+<b> Bibliografia </b>
+
+
+<ol type="1">
+<li>Ali N. Akansu and Mustafa U. Torun. 2015.
+A Primer for Financial Engineering: Financial Signal
+Processing and Electronic Trading (1st ed.), Academic Press.</li>
+<li>John F. Ehlers. 2004. Cybernetic Analysis for Stocks and Futures: Cutting Edge DSP Technology to Improve
+Your Trading (1st ed.), John Wiley & Sons, Inc.</li>
+<li>Robert Prado. 2008. The Evaluation and Optimization of Trading Strategies (2nd ed.), John Wiley & Sons,
+Inc.</li>
+<li>Yves Hilpisch. 2014. Python for Finance: Analyze Big Financial Data (1st ed.), O’Reilly Media, Inc.</li>
+<li>Andrew R. Young. 2013. Expert Advisor Programming for Metatrader 5: Creating Automated Trading
+Systems in the Mql5 Language (1st ed.), Edgehill Publishing.</li>
+
+</ol>
