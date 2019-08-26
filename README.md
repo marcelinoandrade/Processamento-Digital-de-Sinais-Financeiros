@@ -17,11 +17,10 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     <li> Fundamentos da Análises Gráfica, Técnica e Quantitativa; </li>
     <li> Modelagem Estocástica do Preço com o Movimento Browniano Geométrico; </li>
     <li> Estimadores de Tendência, Reversão e Volatilidade; </li>
-    <li> Operações Long \& Short com Cointegração; </li>
+    <li> Operações Long & Short com Cointegração; </li>
     <li> Implementação de Indicadores e Expert Advisor no Metatrader; </li>
     <li> Técnicas de Otimização e de Backtest; </li>
     <li> Infraestrutura de Hardware e Software para Algo Trading; </li>
-    <li> Operações Long \& Short com Cointegração; </li>
   
 </ul>
 
