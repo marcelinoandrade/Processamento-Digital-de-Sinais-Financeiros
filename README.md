@@ -1,7 +1,7 @@
 <img src="fga.png" width="1200" height="100">
 
 
-# Processamento-Digital-de-Sinais-Financeiros
+# Processamento Digital de Sinais Financeiros
 
 Estabelecer competências em técnicas quantitativas aplicadas ao mercado de renda variável, por meio da aplicação dos métodos de processamento digital de séries temporais. Nesse contexto, a disciplina inicia com a modelagem estocástica do preço, partindo para a concepção de portfólios otimizados de ativos financeiros até alcançar a codificação de indicadores e robôs de algo trading. Porém, é importante salientar que a disciplina não objetiva a formação de operadores do mercado financeiro, possuindo responsabilidade estrita à formação discente em métodos e técnicas computacionais aderentes ao mercado de renda variável.
 
@@ -9,7 +9,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     <li> <b>Universidade de Brasília - UnB</b> </li>
     <li> <b>Campus UnB Gama</b> </li>
     <li> <b>Disciplina: Processamento Digital de Sinais Financeiros</b> </li>
-    <li> <b>Prof. Marcelino Monteiro de Andrade Dr.</b> </li>
+    <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></li></a>
 </ul>
 
 <b> Tópicos </b>
