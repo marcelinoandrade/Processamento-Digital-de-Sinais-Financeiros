@@ -31,7 +31,7 @@ A presente atividade prática abordará a modelagem estocástica do preço, soma
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+2+-+Teoria+do+Portfolio+de+Markowitz,+Correla%C3%A7%C3%A3o+Matricial+e+DBSCAN.html" >Aula 2 - Teoria Moderna do Portfolio de Markowitz</a>
 A presente atividade prática abordará a aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da fronteira de eficiência, portfolio de menor risco, de maior Sharpe e da linha de mercado de capitais. Adicionamente, a atividade envolve a identificação das correlações das principais bolsas mundiais e uma clusterização não supervisionada, com a técnica de machine learning, denominada DBSCAN.
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/edit/master/README.md" >Aula 3 - Em contrução!!!!!</a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/" >Aula 3 - Em contrução!!!!!</a>
 
 <b> Bibliografia </b>
 
