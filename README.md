@@ -24,9 +24,9 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
   
 </ul>
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Preço%2C%20Retorno%2C%20Correlação%2C%20Sharpe%20e%20K-Means.ipynb" >Aula 1 - Modelagem do Preço</a>
+<a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+1+-+Modelagem+do+Pre%C3%A7o,+Retorno,+Correla%C3%A7%C3%A3o,+Sharpe+e+K-Means.html" >Aula 1 - Modelagem do Preço</a>
 A presente atividade prática abordará a modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação, aplicação da clusterização k-means entre outros aspectos fundamentais e quantitativos.
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%202%20-%20Teoria%20do%20Portfolio%20de%20Markowitz%2C%20Correla%C3%A7%C3%A3o%20Matricial%20e%20DBSCAN.ipynb" >Aula 2 - Teoria Moderna do Portfolio de Markowitz</a>
+<a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+2+-+Teoria+do+Portfolio+de+Markowitz,+Correla%C3%A7%C3%A3o+Matricial+e+DBSCAN.html" >Aula 2 - Teoria Moderna do Portfolio de Markowitz</a>
 A presente atividade prática abordará a aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da fronteira de eficiência, portfolio de menor risco, de maior Sharpe e da linha de mercado de capitais. Adicionamente, a atividade envolve a identificação das correlações das principais bolsas mundiais e uma clusterização não supervisionada, com a técnica de machine learning, denominada DBSCAN.
 
