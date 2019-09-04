@@ -31,8 +31,11 @@ A presente atividade prática abordará a modelagem estocástica do preço, soma
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+2+-+Teoria+do+Portfolio+de+Markowitz,+Correla%C3%A7%C3%A3o+Matricial+e+DBSCAN.html" >Aula 2 - Teoria Moderna do Portfolio de Markowitz</a>
 A presente atividade prática abordará a aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da fronteira de eficiência, portfolio de menor risco, de maior Sharpe e da linha de mercado de capitais. Adicionamente, a atividade envolve a identificação das correlações das principais bolsas mundiais e uma clusterização não supervisionada, com a técnica de machine learning, denominada DBSCAN.
 
-<a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+2+-+Teoria+do+Portfolio+de+Markowitz,+Correla%C3%A7%C3%A3o+Matricial+e+DBSCAN.html" >Aula 3 - Indicadores Técnicos Clássicos, Resposta em Frequência e Regressão Linear Múltipla</a>
+<a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+3+-+Indicadores+Técnicos+Clássicos,+Resposta+em+Frequência+e+Regressão+Linear+Múltipla.html" >Aula 3 - Indicadores Técnicos Clássicos, Resposta em Frequência e Regressão Linear Múltipla</a>
 A presente atividade abordará um conjunto de indicadores técnicos adotados, regularmente, em estratégias de algo trading ou em operações manuais. Adicionamente, uma análise no domíno das frequência será apresentada, para o indicador média móvel, e um desenvolvimento para predição do retorno, por meio da regressão linear e indicadores técnicos.
+
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/edit/master/README.md" >Aula 4 - Em construção</a>
+
 
 <b> Bibliografia </b>
 
