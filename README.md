@@ -34,7 +34,7 @@ A presente atividade prática abordará a aplicação da Teoria Moderna do Portf
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula%203%20-%20Indicadores%20T%C3%A9cnicos%20Cl%C3%A1ssicos,%20Resposta%20em%20Frequ%C3%AAncia%20e%20Regress%C3%A3o%20Linear%20M%C3%BAltipla.html" >Aula 3 - Indicadores Técnicos Clássicos</a>
 A presente atividade abordará um conjunto de indicadores técnicos adotados, regularmente, em estratégias de algo trading ou em operações manuais. Adicionalmente, uma análise no domíno das frequência será apresentada, para o indicador média móvel, e um desenvolvimento para predição do retorno, por meio da regressão linear e indicadores técnicos.
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 4 - Em construção</a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 4 - Algo Trading / Em construção</a>
 
 
 <b> Bibliografia </b>
