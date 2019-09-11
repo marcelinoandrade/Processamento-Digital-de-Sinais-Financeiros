@@ -38,8 +38,8 @@ A presente atividade abordará um conjunto de indicadores técnicos adotados, re
 Na presente aula foram desenvolvidos 4 (quatro) estratégias básicas de trade automático. Assim, no sentido de estabelecer uma primeira comparação, entre os setups, medidas clássicas de perfomance serão determinadas, como: i) Quantidade de Operações, ii) Relação Retorno/Lucro, iii) Fator de Lucro, iv) Lucro e v) Taxa de Acerto. É notório que muitas outras medidas relevantes podem ser aplicadas (Exemplo: drawdown, fator de recuperação, payoff e etc) que serão, naturalmente, inseridos no decorrer das atividades futuras
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 5 - Operações Long & Short / Em construção</a>
-<b> Bibliografia </b>
 
+<b> Bibliografia </b>
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
 A Primer for Financial Engineering: Financial Signal
