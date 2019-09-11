@@ -14,6 +14,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
 
 <b> Tópicos </b>
 <ul>
+    <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20de%20Introdu%C3%A7%C3%A3o.pdf" >Fundamentos da Análises Gráfica, Técnica e Quantitativa;</li></a>
     <li> Fundamentos da Análises Gráfica, Técnica e Quantitativa; </li>
     <li> Modelagem Estocástica do Preço com o Movimento Browniano Geométrico; </li>
     <li> Teoria do Portfólio Moderno de Markovitz; </li>
