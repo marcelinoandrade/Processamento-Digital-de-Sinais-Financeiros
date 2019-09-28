@@ -37,7 +37,12 @@ A presente atividade abordará um conjunto de indicadores técnicos adotados, re
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+4+-+Algo+Trading,+Seguidor+de+Tend%C3%AAncia,+Revers%C3%A3o+%C3%A0+M%C3%A9dia+e+Decision+Tree.html" >Aula 4 - Algo Trading</a>
 A presente atividade abordará um conjunto de 3 (três) estratégias didáticas de operações automáticas de compras, baseadas nos indicadores média móvel, MACD e as bandas de Bollinger. As estratégias são apresentadas no formato mais trivial possível, considerando o sentido pedagógico. Em contexto real, aspectos adicionais podem ser naturalmente incorporados, como: i) um processo de otimização regular dos parâmetros, ii) a alocação de stops, iii) a natureza da ordem (mercado/limitada), iv) o período entrada e a v) gestão do risco operacional. Complementarmente, a técnica de Machine Learning denominada de Decision Tree foi aplicada na estratégia de cruzamento de médias com o indicador RSI.
 
+<a href="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/089162ee9d06a11e95f31f85d0259693db08ed8a/Aulas-HTML/Aula 5 - Operações Long & Short, Cointegração e bandas de Bollinger .html" >Aula 5 - Operações Long & Short</a> A presente atividade abordará operações Long & Short baseadas no spread entre pares de ações, sendo a "aposta" a diminuição do spread a partir de um determinado ponto de distorção. Diversas medidas quantitativas são possíveis na avaliação dos pares Long & Short, sendo as mais comuns a cointegração e a correlação. Na presente aula a cointegração foi determinada para a escolha dos pares do indice amplo B3, seguindo de um rank de correlação. Nesse sentido, ocorrendo a condição de entrada e os pares sendo cointegrados, os ativos são operados em posições contrárias (comprada/vendida ou vendida/comprada) conforme o contexto da distorção e sempre buscando um retorno à média ou diminuição do spread.
+
+
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 5 - Operações Long & Short / Em construção</a>
+
+
 
 <b> Bibliografia </b>
 <ol type="1">
