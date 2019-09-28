@@ -40,7 +40,7 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 <a href="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/089162ee9d06a11e95f31f85d0259693db08ed8a/Aulas-HTML/Aula 5 - Operações Long & Short, Cointegração e bandas de Bollinger .html" >Aula 5 - Operações Long & Short</a> A presente atividade abordará operações Long & Short baseadas no spread entre pares de ações, sendo a "aposta" a diminuição do spread a partir de um determinado ponto de distorção. Diversas medidas quantitativas são possíveis na avaliação dos pares Long & Short, sendo as mais comuns a cointegração e a correlação. Na presente aula a cointegração foi determinada para a escolha dos pares do indice amplo B3, seguindo de um rank de correlação. Nesse sentido, ocorrendo a condição de entrada e os pares sendo cointegrados, os ativos são operados em posições contrárias (comprada/vendida ou vendida/comprada) conforme o contexto da distorção e sempre buscando um retorno à média ou diminuição do spread.
 
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 5 - Operações Long & Short / Em construção</a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 6 - Indicadores mql5 Metatrader / Em construção</a>
 
 
 
