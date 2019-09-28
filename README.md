@@ -8,8 +8,8 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
 <ul>
     <li> <b>Universidade de Brasília - UnB</b> </li>
     <li> <b>Campus UnB Gama</b> </li>
-    <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Plano%20de%20Aula.pdf" > <b>Disciplina: Processamento Digital de Sinais Financeiros</b></li></a>
-    <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></li></a>
+    <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Plano%20de%20Aula.pdf" > <b>Disciplina: Processamento Digital de Sinais Financeiros</b></a></li>
+    <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
 </ul>
 
 <b> Tópicos </b>
