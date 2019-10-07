@@ -30,7 +30,6 @@ A presente atividade prática abordará a modelagem estocástica do preço, soma
 
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+1+-+Modelagem+do+Pre%C3%A7o,+Retorno,+Correla%C3%A7%C3%A3o,+Sharpe+e+K-Means.html"><img src="/Figuras/Aula 1.png" width="300" height="200" title="Aula 1 - Modelagem do Preço" alt="Aula 1"></a>
 
-![header image](https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Figuras/Aula%201.png?raw=true )
 
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+2+-+Teoria+do+Portfolio+de+Markowitz,+Correla%C3%A7%C3%A3o+Matricial+e+DBSCAN.html" >Aula 2 - Teoria Moderna do Portfolio de Markowitz</a>
 A presente atividade prática abordará a aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da fronteira de eficiência, portfolio de menor risco, de maior Sharpe e da linha de mercado de capitais. Adicionamente, a atividade envolve a identificação das correlações das principais bolsas mundiais e uma clusterização não supervisionada, com a técnica de machine learning, denominada DBSCAN.
