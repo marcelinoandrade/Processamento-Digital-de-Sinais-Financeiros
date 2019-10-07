@@ -54,7 +54,11 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 <a href="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/886ffa84ec36ffdcb7c1102da6318e0ac62547d5/Aulas-HTML/Aula 5 - Operações Long & Short, Cointegração e bandas de Bollinger .html"><img src="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/0dba4f74b1d04acd6f63a3d48b5ed9e95a81fa55/Figuras/Aula 5.png" width="300" height="200" title="Aula 5 - Operações Long & Short" alt="Aula 5"></a>
 
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 6 - Indicadores mql5 Metatrader / Em construção</a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5" >Aula 6 - Indicador VWAP Metatrader.mq5</a> A presente aula corresponde à concepção de um indicador funcional na plataforma Metatrader 5. Nesse sentido, o indicador de referência escolhindo foi o VWAP (Volume Weighted Average Price) que corresponde a média móvel, ponderada pelo volume, de cada barra do gráfico. Esse indicador não é nativo do MT5 e a estrutura básica apresentada poderá ser adotada por outros indicadores customizados. 
+
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5"><img src="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/fec1c05d3cea8169b51555d2623234b0ba5a2a31/Figuras/Aula 6.png" width="300" height="200" title="Aula 6 - Indicador VWAP Metatrader.mq5" alt="Aula 6"></a>
+
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 7 -  Expert Advisor mql5 Metatrader / Em construção</a>
 
 
 
