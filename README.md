@@ -56,7 +56,7 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5" >Aula 6 - Indicador VWAP Metatrader</a> A presente aula corresponde à concepção de um indicador funcional na plataforma Metatrader 5. Nesse sentido, o indicador de referência escolhindo foi o VWAP (Volume Weighted Average Price) que corresponde a média móvel, ponderada pelo volume, de cada barra do gráfico. Esse indicador não é nativo do MT5 e a estrutura básica apresentada poderá ser adotada por outros indicadores customizados. 
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5"><img src="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/fec1c05d3cea8169b51555d2623234b0ba5a2a31/Figuras/Aula 6.png" width="300" height="200" title="Aula 6 - Indicador VWAP Metatrader.mq5" alt="Aula 6"></a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5"><img src="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/fd6d76ee8bc15271b54e6d51558a76705326b299/Figuras/Aula 6.png" width="300" height="200" title="Aula 6 - Indicador VWAP Metatrader.mq5" alt="Aula 6"></a>
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 7 -  Expert Advisor mql5 Metatrader / Em construção</a>
 
