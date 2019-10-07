@@ -28,7 +28,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+1+-+Modelagem+do+Pre%C3%A7o,+Retorno,+Correla%C3%A7%C3%A3o,+Sharpe+e+K-Means.html" >Aula 1 - Modelagem do Preço</a>
 A presente atividade prática abordará a modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação, aplicação da clusterização k-means entre outros aspectos fundamentais e quantitativos.
 
-<a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+1+-+Modelagem+do+Pre%C3%A7o,+Retorno,+Correla%C3%A7%C3%A3o,+Sharpe+e+K-Means.html"><img src="/Figuras/Aula 1.png" width="300" height="200" title="Aula 1 - Modelagem do Preço" alt="Aula 1"></a>
+<a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+1+-+Modelagem+do+Pre%C3%A7o,+Retorno,+Correla%C3%A7%C3%A3o,+Sharpe+e+K-Means.html"><img src="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/1700b1162bc52ad78085403b7660cbc369a63823/Figuras/Aula 1.png?raw=true" width="300" height="200" title="Aula 1 - Modelagem do Preço" alt="Aula 1"></a>
 
 
 <a href="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Aulas-HTML/Aula+2+-+Teoria+do+Portfolio+de+Markowitz,+Correla%C3%A7%C3%A3o+Matricial+e+DBSCAN.html" >Aula 2 - Teoria Moderna do Portfolio de Markowitz</a>
