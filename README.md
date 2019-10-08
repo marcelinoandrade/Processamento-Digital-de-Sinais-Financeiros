@@ -8,13 +8,13 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
 <ul>
     <li> <b>Universidade de Brasília - UnB</b> </li>
     <li> <b>Campus UnB Gama</b> </li>
-    <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Plano%20de%20Aula.pdf" > <b>Disciplina: Processamento Digital de Sinais Financeiros</b></a></li>
+    <li> <a href="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/c5f8c5729242fb82d3539a17e97f05f3185f6500/Plano de Aula.pdf" > <b>Disciplina: Processamento Digital de Sinais Financeiros</b></a></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
 </ul>
 
 <b> Tópicos </b>
 <ul>
-    <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20de%20Introdu%C3%A7%C3%A3o.pdf" >Fundamentos da Análises Gráfica, Técnica e Quantitativa;</a></li>
+    <li> <a href="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/c5f8c5729242fb82d3539a17e97f05f3185f6500/Aula de Introdução.pdf" >Fundamentos da Análises Gráfica, Técnica e Quantitativa;</a></li>
     <li> Modelagem Estocástica do Preço com o Movimento Browniano Geométrico; </li>
     <li> Teoria do Portfólio Moderno de Markovitz; </li>
     <li> Estimadores de Tendência, Reversão e Volatilidade; </li>
