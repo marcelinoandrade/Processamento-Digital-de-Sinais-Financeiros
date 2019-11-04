@@ -60,7 +60,7 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5" >Aula 7 - Expert Advisor MT5</a> Nessa aula é apresentada um robô funcional desenvolvido em mql5 em código aberto com a estratégia de reversão à média. Nesse sentido, o indicador VWAP (aula 6) foi aplicado para indicação do sinal de entrada a partir de uma distância de referência e de saída por meio do cruzamento na média. Outras funcionalidades foram incoporadas como: stops, horários operacionais, modo daytrade, um painel de informações entre outras possíbilidades. Algumas funções foram indicadas no EA para serem desenvolvidas pelos alunos, como: ordem limitadas, funções de teste e restrição do número de operações.
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5"><img src="https://rawcdn.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/fd6d76ee8bc15271b54e6d51558a76705326b299/Figuras/Aula 6.png" width="300" height="200" title="Aula 6 - Indicador VWAP Metatrader.mq5" alt="Aula 6"></a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5"><img src="https://raw.githack.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula 7.png" width="300" height="200" title="Aula 6 - Indicador VWAP Metatrader.mq5" alt="Aula 6"></a>
 
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 7 -  Expert Advisor mql5 Metatrader / Em construção</a>
