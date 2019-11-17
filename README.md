@@ -12,7 +12,8 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
 </ul>
 
-<b> Tópicos </b>
+<b> I) Tópicos </b> 
+
 <ul>
     <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20de%20Introdu%C3%A7%C3%A3o.pdf" >Fundamentos da Análises Gráfica, Técnica e Quantitativa;</a></li>
     <li> Modelagem Estocástica do Preço com o Movimento Browniano Geométrico; </li>
@@ -25,7 +26,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
   
 </ul>
 
-<b> Aulas </b>
+<b> II) Aulas </b>
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%2C%20Sharpe%20e%20K-Means.ipynb" >Aula 1 - Modelagem do Preço</a>
 A presente atividade prática abordará a modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação, aplicação da clusterização k-means entre outros aspectos fundamentais e quantitativos.
@@ -67,14 +68,14 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula 8 - Operacionais conjuntos Python e Metatrader/ Em construção</a>
 
-<b> Aulas Extras </b>
+<b> III) Aulas Extras </b>
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 1 - Modelos ARCH e GARCH para estimação de volatilidade/ Em construção</a>
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 2 - Operações Long & Short baseadas no resido estacionário/ Em construção</a>
 
 
-<b> Bibliografia </b>
+<b> IV) Bibliografia </b>
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
 A Primer for Financial Engineering: Financial Signal
