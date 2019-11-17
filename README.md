@@ -72,7 +72,7 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 1 - Modelos ARCH e GARCH para estimação de volatilidade/ Em construção</a>
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 2 - Long & Short com resído estacionário de ativos cointegrados/ Em construção</a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 2 - Long & Short com resído estacionário e cointegração/ Em construção</a>
 
 
 <b> IV) Bibliografia </b>
