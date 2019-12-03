@@ -70,7 +70,6 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%208%20-%20Conex%C3%A3o%20socket%20Python-MT5%20Regress%C3%A3o%20Linear.mq5"><img src="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Figuras/Aula%208.1.png" width="400" height="400" title="Aula 8 - Conexão MT5" alt="Aula 8 - MT5"></a>.
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%208%20-%20Conex%C3%A3o%20socket%20Python-MT5%20Regress%C3%A3o%20Linear.ipynb"><img src="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Figuras/Aula%208.2.png" width="400" height="400" title="Aula 8 - Conexão Python" alt="Aula 8 - Python"></a>.
 
 
 <b> III) Aulas Extras </b>
