@@ -1,5 +1,6 @@
+<p align="center">
 <img src="fga.png" width="800" height="100">
-
+</p>
 
 # Processamento Digital de Sinais Financeiros
 <p align="justify">
