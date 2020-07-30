@@ -1,3 +1,4 @@
+<img src="fga.png" width="800" height="100">
 
 
 # Processamento Digital de Sinais Financeiros
@@ -100,6 +101,4 @@ Inc.</li>
 Systems in the Mql5 Language (1st ed.), Edgehill Publishing.</li>
 
 </ol>
-<p align="center">
-<img src="fga.png" width="800" height="100">
-</p>
+
