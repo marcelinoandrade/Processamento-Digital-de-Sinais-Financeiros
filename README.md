@@ -1,4 +1,4 @@
-<img src="fga.png" width="1200" height="100">
+<img src="fga.png" width="800" height="100">
 
 
 # Processamento Digital de Sinais Financeiros
