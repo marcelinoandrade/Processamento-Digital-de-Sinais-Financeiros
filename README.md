@@ -82,9 +82,9 @@ A presente atividade abordará um conjunto de 3 (três) estratégias didáticas 
 
 <b> III) Aulas Extras </b>
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 1 - Modelos ARCH e GARCH para estimação de volatilidade/ Em construção</a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%201%20-%20Leitura%20de%20Dados%20e%20Exploratory%20Data%20Analysis%20(EDA).ipynb" >Aula Extra 1 - Leitura de Dados e Exploratory Data Analysis (EDA)</a>
 
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 2 - Long & Short com resído estacionário e cointegração/ Em construção</a>
+<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" >Aula Extra 2 - Modelos ARCH e GARCH para estimação de volatilidade/ Em construção</a>
 
 
 <b> IV) Bibliografia </b>
