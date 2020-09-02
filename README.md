@@ -28,6 +28,22 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
 
 <b> II) Aulas </b>
 
+
+<table border="1" class="dataframe">
+  <tbody>
+    <tr>
+      <th>01</th>
+      <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%2C%20Sharpe%20e%20K-Means.ipynb"><img src="https://raw.githubusercontent.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula%201.png" width="300" height="200" title="Aula 1 - Modelagem do Preço" alt="Aula 1"></a>
+      </td>
+      <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%2C%20Sharpe%20e%20K-Means.ipynb" >Aula 1 - Modelagem do Preço</a>
+<p align="justify">
+A presente atividade prática abordará a modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação, aplicação da clusterização k-means entre outros aspectos fundamentais e quantitativos.
+</p>                
+      </td>
+    </tr>
+  </tbody>
+</table>      
+
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%2C%20Sharpe%20e%20K-Means.ipynb" >Aula 1 - Modelagem do Preço</a>
 <p align="justify">
 A presente atividade prática abordará a modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação, aplicação da clusterização k-means entre outros aspectos fundamentais e quantitativos.
