@@ -85,7 +85,6 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
 </tr>
 </tbody>
 </table>
-
 <b> III) Aulas Extras </b>
 <b> IV) Bibliografia </b>
 <ol type="1">
@@ -99,6 +98,5 @@ Inc.</li>
 <li>Yves Hilpisch. 2014. Python for Finance: Analyze Big Financial Data (1st ed.), O’Reilly Media, Inc.</li>
 <li>Andrew R. Young. 2013. Expert Advisor Programming for Metatrader 5: Creating Automated Trading
 Systems in the Mql5 Language (1st ed.), Edgehill Publishing.</li>
-
 </ol>
 
