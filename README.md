@@ -1,7 +1,7 @@
 <img src="fga.png" >
 
 
-# Processamento Digital de Sinais Financeiros
+### Processamento Digital de Sinais Financeiros
 <p align="justify">
 Estabelecer competências em técnicas quantitativas aplicadas ao mercado de renda variável, por meio da aplicação dos métodos de processamento digital de séries temporais. Nesse contexto, a disciplina inicia com a modelagem estocástica do preço, partindo para a concepção de portfólios otimizados de ativos financeiros até alcançar a codificação de indicadores e robôs de algo trading. Porém, é importante salientar que a disciplina não objetiva a formação de operadores do mercado financeiro, possuindo responsabilidade estrita à formação discente em métodos e técnicas computacionais aderentes ao mercado de renda variável.
 </p>
@@ -12,7 +12,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
 </ul>
 
-<b> I) Tópicos </b> 
+### I) Tópicos
 
 <ul>
     <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20de%20Introdu%C3%A7%C3%A3o.pdf" >Fundamentos da Análises Gráfica, Técnica e Quantitativa;</a></li>
@@ -26,7 +26,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
   
 </ul>
 
-<b> II) Aulas </b>
+### II) Aulas
 <table border="1" class="dataframe">
   <tbody>
     <tr>
@@ -85,7 +85,7 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
 </tr>
 </tbody>
 </table>
-<b> III) Aulas Extras </b>
+### III) Aulas Extras
 <table border="1" class="dataframe">
   <tbody>
     <tr>
@@ -101,7 +101,7 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
 
 
 
-<b> IV) Bibliografia </b>
+### IV) Bibliografia
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
 A Primer for Financial Engineering: Financial Signal
