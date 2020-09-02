@@ -90,7 +90,7 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
   <tbody>
     <tr>
     <th>01</th>
-    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%201%20-%20Leitura%20de%20Dados%20e%20Exploratory%20Data%20Analysis%20(EDA).ipynb" ><p align="top">Aula 8 - Conexão MT5 Python</p></a>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%201%20-%20Leitura%20de%20Dados%20e%20Exploratory%20Data%20Analysis%20(EDA).ipynb" ><p align="top">Aula Extra 1 - Leitura de Dados e Exploratory Data Analysis (EDA)</p></a>
 <p align="justify">
 É natural que ao iniciar um projeto de aprendizado de máquina (ML) ou modelagem estatística, precisamos primeiro fazer uma análise exploratória de dados (EDA). Isso inclui ações como plotagens de dados brutos, análise histogramas e muito mais ...
 </p>   
