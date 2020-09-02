@@ -85,7 +85,9 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
 </tr>
 </tbody>
 </table>
+
 ### III) Aulas Extras
+
 <table border="1" class="dataframe">
   <tbody>
     <tr>
