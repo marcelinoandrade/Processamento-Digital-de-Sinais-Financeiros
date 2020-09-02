@@ -51,37 +51,41 @@ A presente atividade abordará um conjunto de indicadores técnicos adotados, re
     <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%204%20-%20Algo%20Trading%2C%20Seguidor%20de%20Tend%C3%AAncia%2C%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20e%20Decision%20Tree.ipynb" ><p align="top">Aula 4 - Algo Trading</p></a>
 <p align="justify">
 A presente atividade abordará um conjunto de 3 (três) estratégias didáticas de operações automáticas de compras, baseadas nos indicadores média móvel, MACD e as bandas de Bollinger. As estratégias são apresentadas no formato mais trivial possível, considerando o sentido pedagógico. Em contexto real, aspectos adicionais podem ser naturalmente incorporados, como: i) um processo de otimização regular dos parâmetros, ii) a alocação de stops, iii) a natureza da ordem (mercado/limitada), iv) o período entrada e a v) gestão do risco operacional. Complementarmente, a técnica de Machine Learning denominada de Decision Tree foi aplicada na estratégia de cruzamento de médias com o indicador RSI.
-
 </p>   </td>
   </tr>      
+    <tr> 
+    <td>05</td>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%205%20-%20Opera%C3%A7%C3%B5es%20Long%20%26%20Short%2C%20Cointegra%C3%A7%C3%A3o%20e%20bandas%20de%20Bollinger%20.ipynb" ><p align="top">Aula 5 - Operações Long & Short</p></a>
+<p align="justify">
+A presente atividade abordará operações Long & Short baseadas no spread entre pares de ações, sendo a "aposta" a diminuição do spread a partir de um determinado ponto de distorção. Diversas medidas quantitativas são possíveis na avaliação dos pares Long & Short, sendo as mais comuns a cointegração e a correlação. Na presente aula a cointegração foi determinada para a escolha dos pares do indice amplo B3, seguindo de um rank de correlação. Nesse sentido, ocorrendo a condição de entrada e os pares sendo cointegrados, os ativos são operados em posições contrárias (comprada/vendida ou vendida/comprada) conforme o contexto da distorção e sempre buscando um retorno à média ou diminuição do spread.
+</p>   </td>
+  </tr>  
+    <tr> 
+    <td>06</td>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5" ><p align="top">Aula 6 - Indicador VWAP Metatrader</p></a>
+<p align="justify">
+A presente aula corresponde à concepção de um indicador funcional na plataforma Metatrader 5. Nesse sentido, o indicador de referência escolhindo foi o VWAP (Volume Weighted Average Price) que corresponde a média móvel, ponderada pelo volume, de cada barra do gráfico. Esse indicador não é nativo do MT5 e a estrutura básica apresentada poderá ser adotada por outros indicadores customizados. 
+</p>   </td>
+  </tr>  
+    <tr> 
+    <td>07</td>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%207%20-%20EA%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20Metatrader.mq5" ><p align="top">Aula 7 - Expert Advisor MT5</p></a>
+<p align="justify">
+Nessa aula é apresentado um robô funcional desenvolvido em mql5-Metatrader, em código aberto, com a estratégia de reversão à média. Nesse sentido, o indicador VWAP (aula 6) foi aplicado para determinação dos pontos de entrada, a partir de uma distância da média de referência, e também de saída por meio do retorno/cruzamento na média VWAP. Outras funcionalidades foram incoporadas, como: stops, horários operacionais, modo daytrade, um painel de informações, modos de preenchimento de ordem entre outras possíbilidades. Algumas funções foram indicadas no EA para serem desenvolvidas pelos alunos, como: ordem limitadas, funções de teste e restrição do número de operações.
+</p>   </td>
+  </tr>        
+    <tr> 
+    <td>08</td>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%204%20-%20Algo%20Trading%2C%20Seguidor%20de%20Tend%C3%AAncia%2C%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20e%20Decision%20Tree.ipynb" ><p align="top">Aula 4 - Algo Trading</p></a>
+<p align="justify">
+A presente atividade abordará um conjunto de 3 (três) estratégias didáticas de operações automáticas de compras, baseadas nos indicadores média móvel, MACD e as bandas de Bollinger. As estratégias são apresentadas no formato mais trivial possível, considerando o sentido pedagógico. Em contexto real, aspectos adicionais podem ser naturalmente incorporados, como: i) um processo de otimização regular dos parâmetros, ii) a alocação de stops, iii) a natureza da ordem (mercado/limitada), iv) o período entrada e a v) gestão do risco operacional. Complementarmente, a técnica de Machine Learning denominada de Decision Tree foi aplicada na estratégia de cruzamento de médias com o indicador RSI.
+</p>   </td>
+  </tr>        
       
   </tbody>
 </table>
 
 
-
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%204%20-%20Algo%20Trading%2C%20Seguidor%20de%20Tend%C3%AAncia%2C%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20e%20Decision%20Tree.ipynb" >Aula 4 - Algo Trading</a>
-<p align="justify">
-A presente atividade abordará um conjunto de 3 (três) estratégias didáticas de operações automáticas de compras, baseadas nos indicadores média móvel, MACD e as bandas de Bollinger. As estratégias são apresentadas no formato mais trivial possível, considerando o sentido pedagógico. Em contexto real, aspectos adicionais podem ser naturalmente incorporados, como: i) um processo de otimização regular dos parâmetros, ii) a alocação de stops, iii) a natureza da ordem (mercado/limitada), iv) o período entrada e a v) gestão do risco operacional. Complementarmente, a técnica de Machine Learning denominada de Decision Tree foi aplicada na estratégia de cruzamento de médias com o indicador RSI.
-</p>
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%204%20-%20Algo%20Trading%2C%20Seguidor%20de%20Tend%C3%AAncia%2C%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20e%20Decision%20Tree.ipynb"><img src="https://raw.githubusercontent.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula%204.png" width="300" height="200" title="Aula 4 - Algo Trading" alt="Aula 4"></a>
-
-
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%205%20-%20Opera%C3%A7%C3%B5es%20Long%20%26%20Short%2C%20Cointegra%C3%A7%C3%A3o%20e%20bandas%20de%20Bollinger%20.ipynb" >Aula 5 - Operações Long & Short</a>
-<p align="justify">A presente atividade abordará operações Long & Short baseadas no spread entre pares de ações, sendo a "aposta" a diminuição do spread a partir de um determinado ponto de distorção. Diversas medidas quantitativas são possíveis na avaliação dos pares Long & Short, sendo as mais comuns a cointegração e a correlação. Na presente aula a cointegração foi determinada para a escolha dos pares do indice amplo B3, seguindo de um rank de correlação. Nesse sentido, ocorrendo a condição de entrada e os pares sendo cointegrados, os ativos são operados em posições contrárias (comprada/vendida ou vendida/comprada) conforme o contexto da distorção e sempre buscando um retorno à média ou diminuição do spread.
-</p>
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%205%20-%20Opera%C3%A7%C3%B5es%20Long%20%26%20Short%2C%20Cointegra%C3%A7%C3%A3o%20e%20bandas%20de%20Bollinger%20.ipynb"><img src="https://raw.githubusercontent.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula%205.png" width="300" height="200" title="Aula 5 - Operações Long & Short" alt="Aula 5"></a>
-
-
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5" >Aula 6 - Indicador VWAP Metatrader</a>
-<p align="justify">A presente aula corresponde à concepção de um indicador funcional na plataforma Metatrader 5. Nesse sentido, o indicador de referência escolhindo foi o VWAP (Volume Weighted Average Price) que corresponde a média móvel, ponderada pelo volume, de cada barra do gráfico. Esse indicador não é nativo do MT5 e a estrutura básica apresentada poderá ser adotada por outros indicadores customizados. 
-</p>
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%206%20-%20Indicador%20VWAP%20Metatrader.mq5"><img src="https://raw.githubusercontent.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula%206.png" width="300" height="200" title="Aula 6 - Indicador VWAP Metatrader" alt="Aula 6"></a>
-
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%207%20-%20EA%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20Metatrader.mq5" >Aula 7 - Expert Advisor MT5</a>
-<p align="justify">Nessa aula é apresentado um robô funcional desenvolvido em mql5-Metatrader, em código aberto, com a estratégia de reversão à média. Nesse sentido, o indicador VWAP (aula 6) foi aplicado para determinação dos pontos de entrada, a partir de uma distância da média de referência, e também de saída por meio do retorno/cruzamento na média VWAP. Outras funcionalidades foram incoporadas, como: stops, horários operacionais, modo daytrade, um painel de informações, modos de preenchimento de ordem entre outras possíbilidades. Algumas funções foram indicadas no EA para serem desenvolvidas pelos alunos, como: ordem limitadas, funções de teste e restrição do número de operações.
-</p>
-<a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%207%20-%20EA%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20Metatrader.mq5"><img src="https://raw.githubusercontent.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula%207.png" width="300" height="200" title="Aula 7 - Expert Advisor MT5" alt="Aula 7"></a>
 
 
 <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros">Aula 8 - Conexão MT5 Python</a> A presente atividade aborda o artigo <a href="https://www.mql5.com/pt/articles/5691" >"Integração do Metatrader 5 e Python: Recebendo e Enviando Dados"</a>
