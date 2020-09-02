@@ -86,6 +86,21 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
 </tbody>
 </table>
 <b> III) Aulas Extras </b>
+<table border="1" class="dataframe">
+  <tbody>
+    <tr>
+    <th>01</th>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%201%20-%20Leitura%20de%20Dados%20e%20Exploratory%20Data%20Analysis%20(EDA).ipynb" ><p align="top">Aula 8 - Conexão MT5 Python</p></a>
+<p align="justify">
+É natural que ao iniciar um projeto de aprendizado de máquina (ML) ou modelagem estatística, precisamos primeiro fazer uma análise exploratória de dados (EDA). Isso inclui ações como plotagens de dados brutos, análise histogramas e muito mais ...
+</p>   
+</td> 
+</tr>
+</tbody>
+</table>
+
+
+
 <b> IV) Bibliografia </b>
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
