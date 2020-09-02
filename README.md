@@ -93,12 +93,7 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
     <th>01</th>
     <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%201%20-%20Leitura%20de%20Dados%20e%20Exploratory%20Data%20Analysis%20(EDA).ipynb" ><p align="top">Aula 1 - Leitura de Dados e Exploratory Data Analysis (EDA)</p></a>
     <p align="justify"> Sempre que iniciamos um projeto de aprendizado de máquina (ML) ou modelagem estatística, precisamos primeiro fazer uma análise exploratória de dados (EDA). Isso inclui ações como: plotagens de dados brutos, interpretação de histogramas, avaliação de correlações, análise do boxplot e muito mais ...</p> </td>
-    </tr>
-    <tr>
-    <th>02</th>
-    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros" ><p align="top">Aula 2 - Modelos ARCH e GARCH para estimação de volatilidade/ Em construção</p></a>
-    <p align="justify"> ???????????...</p> </td>
-    </tr>           
+    </tr>         
   </tbody>
 </table>      
 
