@@ -80,17 +80,13 @@ Nessa aula é apresentado um robô funcional desenvolvido em mql5-Metatrader, em
 <p align="justify">
 A solução corresponde ao estabelecimento de uma comunicação via socket (IP:Port) no qual o metatrader enviar para o Python os preços de fechamento de N períodos e o Python, por meio do método "LinearRegression" do módulo "sklearn.linear_model", realiza o cálculo da regressão linear e retorna para o MT5 os pontos da reta. Em seguida, no Metatrader os pontos recebidos são utilizados para a contrução da curva de regressão no período desejado. Contudo, o potencial dessa relação (MT5-Python) possuí seu principal fundamento em permitir o uso das inúmeras soluções de Machine Learning disponibilizada no ambiente Python por meio de bibliotecas como: Scikit-learn, XGBoost, Keras entre outras.
  <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%208%20-%20Conex%C3%A3o%20socket%20Python-MT5%20Regress%C3%A3o%20Linear.mq5" ><p align="top">Código mql5</p>   
-</p>   </td> 
-   </tr>
-  </tbody>
+</p>   
+</td> 
+</tr>
+</tbody>
 </table>
 
 <b> III) Aulas Extras </b>
-
-
-
-
-
 <b> IV) Bibliografia </b>
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
