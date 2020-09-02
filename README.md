@@ -33,9 +33,6 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
   <tbody>
     <tr>
     <th>01</th>
-    <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-    <img src="https://raw.githubusercontent.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula%201.png"  style="max-height:100%; max-width:100%"/>   
-    </td>
     <td> 
     <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%2C%20Sharpe%20e%20K-Means.ipynb" ><p align="top">Aula 1 - Modelagem do Preço</p></a>
     <p align="justify">
@@ -45,9 +42,6 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     </tr>
      <tr>
     <th>02</th>
-    <td style="width:250px; height:250px; background-color:red;text-align:center; vertical-align:middle">
-    <img src="https://raw.githubusercontent.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/master/Figuras/Aula%202.png"  style="max-height:100%; max-width:100%"/>   
-    </td>
     <td> 
     <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%202%20-%20Teoria%20do%20Portfolio%20de%20Markowitz%2C%20Correla%C3%A7%C3%A3o%20Matricial%20e%20DBSCAN.ipynb" ><p align="top">Aula 2 - Teoria Moderna do Portfolio de Markowitz</p></a>
     <p align="justify">
