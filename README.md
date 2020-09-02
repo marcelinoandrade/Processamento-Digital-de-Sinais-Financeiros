@@ -94,10 +94,17 @@ A solução corresponde ao estabelecimento de uma comunicação via socket (IP:P
     <th>01</th>
     <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%201%20-%20Leitura%20de%20Dados%20e%20Exploratory%20Data%20Analysis%20(EDA).ipynb" ><p align="top">Aula Extra 1 - Leitura de Dados e Exploratory Data Analysis (EDA)</p></a>
 <p align="justify">
-É natural que ao iniciar um projeto de aprendizado de máquina (ML) ou modelagem estatística, precisamos primeiro fazer uma análise exploratória de dados (EDA). Isso inclui ações como plotagens de dados brutos, análise histogramas e muito mais ...
-</p>   
-</td> 
-</tr>
+É natural que ao iniciar um projeto de aprendizado de máquina (ML) ou modelagem estatística, precisamos primeiro fazer uma análise exploratória de dados (EDA). Isso inclui ações como plotagens de dados brutos, análise histogramas e muito mais ... </p>   
+    </td> 
+    </tr>
+      <tr>
+    <th>02</th>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%202%20-%20IA_Investimento.pdf" ><p align="top">Aula Extra 2 - Introdução IA Investimento</p></a>
+<p align="justify">
+Alguns aspectos introdutórios abordando inteligência artificial e aplicações em investimentos, em especial, na aplicação de aprendizagem de máquina.</p>   
+    </td> 
+    </tr>    
+      
 </tbody>
 </table>
 
