@@ -30,8 +30,10 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
 <table border="1" class="dataframe">
   <tbody>
     <tr>
+    </tr>
+          <tr>
     <th>01</th>
-    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%2C%20Sharpe%20e%20K-Means.ipynb" ><p align="top">Aula 1 - Modelagem do Preço</p></a>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%20e%20Sharpe.ipynb" ><p align="top">Aula 1 - Modelagem do Preço</p></a>
     <p align="justify"> Modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação, aplicação da clusterização k-means entre outros aspectos fundamentais e quantitativos.</p> </td>
     </tr>
     <tr> 
@@ -90,6 +92,8 @@ Comunicação via socket (IP:Port) no qual o metatrader enviar para o Python os 
 
 <table border="1" class="dataframe">
   <tbody>
+          <tr>
+    </tr>
     <tr>
     <th>01</th>
     <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%201%20-%20Leitura%20de%20Dados%20e%20Exploratory%20Data%20Analysis%20(EDA).ipynb" ><p align="top">Aula Extra 1 - Leitura de Dados e Exploratory Data Analysis (EDA)</p></a>
@@ -104,7 +108,13 @@ Comunicação via socket (IP:Port) no qual o metatrader enviar para o Python os 
 Alguns aspectos introdutórios abordando inteligência artificial e aplicações em investimentos, em especial, na aplicação de aprendizagem de máquina.</p>   
     </td> 
     </tr>    
-      
+   <tr>
+    <th>03</th>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%203%20-%20K-Means%20e%20Carteira%20de%20Ativos%20para%20Swing.ipynb" ><p align="top">Aula Extra 3 - K-Means e Carteira de Ativos para Swing</p></a>
+<p align="justify">
+Estratégia de concepção de carteira de Swing Trade baseado na clusterização não supervisionada com K-Means</p>   
+    </td> 
+    </tr>    
 </tbody>
 </table>
 
