@@ -34,7 +34,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
           <tr>
     <th>01</th>
     <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%201%20-%20Modelagem%20do%20Pre%C3%A7o%2C%20Retorno%2C%20Correla%C3%A7%C3%A3o%20e%20Sharpe.ipynb" ><p align="top">Aula 1 - Modelagem do Preço</p></a>
-    <p align="justify"> Modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação, aplicação da clusterização k-means entre outros aspectos fundamentais e quantitativos.</p> </td>
+    <p align="justify"> Modelagem estocástica do preço, somado a conceituação de volatilidade, expectativa de retorno, índice Sharpe, correlação entre outros aspectos fundamentais e quantitativos.</p> </td>
     </tr>
     <tr> 
     <th>02</th>
