@@ -38,8 +38,8 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     </tr>
     <tr> 
     <th>02</th>
-    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%202%20-%20Teoria%20do%20Portfolio%20de%20Markowitz%2C%20Correla%C3%A7%C3%A3o%20Matricial%20e%20DBSCAN.ipynb" ><p align="top">Aula 2 - Teoria Moderna do Portfolio de Markowitz</p></a>
-    <p align="justify"> Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da fronteira de eficiência, portfolio de menor risco, de maior Sharpe e da linha de mercado de capitais. Adicionamente, a atividade envolve uma clusterização não supervisionada com DBSCAN. </p>   </td>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%202%20-%20Teoria%20Moderna%20do%20Portfolio%20de%20Markowitz.ipynb" ><p align="top">Aula 2 - Teoria Moderna do Portfolio de Markowitz</p></a>
+    <p align="justify"> Aplicação da Teoria Moderna do Portfolio (TMP), com a identificação da fronteira de eficiência, portfolio de menor risco, de maior Sharpe e da linha de mercado de capitais.</p>   </td>
     </tr>
     <tr> 
     <th>03</th>
