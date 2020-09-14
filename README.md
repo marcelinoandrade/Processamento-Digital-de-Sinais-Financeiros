@@ -114,7 +114,15 @@ Alguns aspectos introdutórios abordando inteligência artificial e aplicações
 <p align="justify">
 Estratégia de concepção de carteira de Swing Trade baseado na clusterização não supervisionada com K-Means</p>   
     </td> 
-    </tr>    
+    </tr> 
+   <tr>
+    <th>04</th>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%204%20-%20Bolsas%20Mundiais%2C%20Correla%C3%A7%C3%B5es%20e%20Clusteriza%C3%A7%C3%A3o%20DBSCAN.ipynb" ><p align="top">Aula Extra 4 - Bolsas Mundiais, Correlações e Clusterização DBSCAN</p></a>
+<p align="justify">
+A presente atividade prática abordará a identificação das correlações das principais bolsas mundiais e uma clusterização não supervisionada, com a técnica de machine learning, denominada DBSCAN.</p>   
+    </td> 
+    </tr>          
+      
 </tbody>
 </table>
 
