@@ -130,17 +130,18 @@ A presente atividade prática abordará a identificação das correlações das 
 
 
 ### IV) Bibliografia
+
 #### Básica
+
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
 A Primer for Financial Engineering: Financial Signal
 Processing and Electronic Trading (1st ed.), Academic Press.</li>
 </ol>
+
 #### Complementar
+
 <ol type="1">
-<li>Ali N. Akansu and Mustafa U. Torun. 2015.
-A Primer for Financial Engineering: Financial Signal
-Processing and Electronic Trading (1st ed.), Academic Press.</li>
 <li>John F. Ehlers. 2004. Cybernetic Analysis for Stocks and Futures: Cutting Edge DSP Technology to Improve
 Your Trading (1st ed.), John Wiley & Sons, Inc.</li>
 <li>Robert Prado. 2008. The Evaluation and Optimization of Trading Strategies (2nd ed.), John Wiley & Sons,
