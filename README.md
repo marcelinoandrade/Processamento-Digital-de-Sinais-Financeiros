@@ -130,6 +130,7 @@ A presente atividade prática abordará a identificação das correlações das 
 
 
 ### IV) Bibliografia
+#### Básica
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
 A Primer for Financial Engineering: Financial Signal
