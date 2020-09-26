@@ -10,7 +10,7 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     <li> <b>Campus UnB Gama</b> </li>
     <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Plano%20de%20Aula.pdf" > <b>Plano de Ensino: Processamento Digital de Sinais Financeiros</b></a></li>
     <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr (andrade@unb.br).</b></a></li>
-    <li> <b>Pré-requisitos: Introdução a Álgebra Linear e/ou Probabilidade Estatística</b>  </li>
+    <li> <b>Pré-requisitos:</b> Introdução a Álgebra Linear e/ou Probabilidade Estatística  </li>
 </ul>
 
 ### I) Tópicos
