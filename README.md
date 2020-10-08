@@ -9,7 +9,8 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     <li> <b>Universidade de Brasília - UnB</b> </li>
     <li> <b>Campus UnB Gama</b> </li>
     <li> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Plano%20de%20Aula.pdf" > <b>Disciplina: Processamento Digital de Sinais Financeiros</b></a></li>
-    <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr.</b></a></li>
+    <li> <a href="https://www.linkedin.com/in/marcelino-andrade-b164b369/" ><b>Prof. Marcelino Monteiro de Andrade Dr (andrade@unb.br).</b></a></li>
+    <li> <b>Pré-requisitos:</b> Introdução a Álgebra Linear e Probabilidade Estatística  </li>
 </ul>
 
 ### I) Tópicos
@@ -129,10 +130,18 @@ A presente atividade prática abordará a identificação das correlações das 
 
 
 ### IV) Bibliografia
+
+#### Básica
+
 <ol type="1">
 <li>Ali N. Akansu and Mustafa U. Torun. 2015.
 A Primer for Financial Engineering: Financial Signal
 Processing and Electronic Trading (1st ed.), Academic Press.</li>
+</ol>
+
+#### Complementar
+
+<ol type="1">
 <li>John F. Ehlers. 2004. Cybernetic Analysis for Stocks and Futures: Cutting Edge DSP Technology to Improve
 Your Trading (1st ed.), John Wiley & Sons, Inc.</li>
 <li>Robert Prado. 2008. The Evaluation and Optimization of Trading Strategies (2nd ed.), John Wiley & Sons,
