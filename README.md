@@ -44,9 +44,9 @@ Estabelecer competências em técnicas quantitativas aplicadas ao mercado de ren
     </tr>
     <tr> 
     <th>03</th>
-    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%203%20-%20Indicadores%20T%C3%A9cnicos%20Cl%C3%A1ssicos%2C%20Resposta%20em%20Frequ%C3%AAncia%20e%20Regress%C3%A3o%20Linear%20M%C3%BAltipla.ipynb" ><p align="top">Aula 3 - Indicadores Técnicos Clássicos</p></a>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%203%20-%20Indicadores%20T%C3%A9cnicos%20Cl%C3%A1ssicos%20e%20Resposta%20em%20Frequ%C3%AAncia.ipynb" ><p align="top">Aula 3 - Indicadores Técnicos Clássicos</p></a>
 <p align="justify">
-Conjunto de indicadores técnicos adotados, regularmente, em estratégias de algo trading ou em operações manuais. Adicionalmente, uma análise no domíno das frequência será apresentada, para o indicador média móvel, e um desenvolvimento para predição do retorno, por meio da regressão linear e indicadores técnicos.
+Conjunto de indicadores técnicos adotados, regularmente, em estratégias de algo trading ou em operações manuais. Adicionalmente, uma análise no domíno das frequência será desenvolvida para o indicador média móvel.
 </p>   </td>
   </tr>
     <tr> 
