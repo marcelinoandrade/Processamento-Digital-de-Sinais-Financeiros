@@ -51,7 +51,7 @@ Conjunto de indicadores técnicos adotados, regularmente, em estratégias de alg
   </tr>
     <tr> 
     <th>04</th>
-    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%204%20-%20Algo%20Trading%2C%20Seguidor%20de%20Tend%C3%AAncia%2C%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia%20e%20Decision%20Tree.ipynb" ><p align="top">Aula 4 - Algo Trading</p></a>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%204%20-%20Algo%20Trading_%20Seguidor%20de%20Tend%C3%AAncia%20e%20Revers%C3%A3o%20%C3%A0%20M%C3%A9dia.ipynb" ><p align="top">Aula 4 - Algo Trading</p></a>
 <p align="justify">
 Um conjunto de 3 (três) estratégias didáticas de operações automáticas de compras, baseadas nos indicadores média móvel, MACD e as bandas de Bollinger. As estratégias são apresentadas no formato mais trivial possível, considerando o sentido pedagógico.
 </p>   </td>
