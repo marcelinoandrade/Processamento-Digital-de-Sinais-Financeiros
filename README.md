@@ -123,7 +123,13 @@ Estratégia de concepção de carteira de Swing Trade baseado na clusterização
 A presente atividade prática abordará a identificação das correlações das principais bolsas mundiais e uma clusterização não supervisionada, com a técnica de machine learning, denominada DBSCAN.</p>   
     </td> 
     </tr>          
-      
+   <tr>
+    <th>05</th>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%205%20-%20Random%20Forest%20aplicado%20em%20Algo%20trading.ipynb" ><p align="top">Aula Extra 5 - Random Forest aplicado em Algo trading</p></a>
+<p align="justify">
+A presente aula aborda técnicas de classificação denominadas de decision tree e randon forest. Nesse sentido, esses modelos de Machine Learning para classificação foram treinados para incorporar regras de algotrading, baseada em crossover dos eventos de sucesso, buscando "melhorar" o desempenho operacional do cruzamento de médias.</p>   
+    </td> 
+    </tr>     
 </tbody>
 </table>
 
