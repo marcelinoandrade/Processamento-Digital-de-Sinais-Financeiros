@@ -127,7 +127,7 @@ A presente atividade prática abordará a identificação das correlações das 
     <th>05</th>
     <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%20Extra%205%20-%20Random%20Forest%20aplicado%20em%20Algo%20trading.ipynb" ><p align="top">Aula Extra 5 - Random Forest aplicado em Algo trading</p></a>
 <p align="justify">
-A presente aula aborda técnicas de classificação denominadas de decision tree e randon forest. Nesse sentido, esses modelos de Machine Learning para classificação foram treinados para incorporar regras de algotrading, baseada em crossover dos eventos de sucesso, buscando "melhorar" o desempenho operacional do cruzamento de médias.</p>   
+A presente aula aborda técnicas de classificação denominadas de decision tree e random forest. Nesse sentido, esses modelos de Machine Learning para classificação foram treinados para incorporar regras de algotrading, baseada em crossover dos eventos de sucesso, buscando "melhorar" o desempenho operacional do cruzamento de médias.</p>   
     </td> 
     </tr>     
 </tbody>
