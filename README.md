@@ -58,9 +58,9 @@ Um conjunto de 3 (três) estratégias didáticas de operações automáticas de 
   </tr>      
     <tr> 
     <th>05</th>
-    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%205%20-%20Opera%C3%A7%C3%B5es%20Long%20%26%20Short%2C%20Cointegra%C3%A7%C3%A3o%20e%20bandas%20de%20Bollinger%20.ipynb" ><p align="top">Aula 5 - Operações Long & Short</p></a>
+    <td> <a href="https://github.com/marcelinoandrade/Processamento-Digital-de-Sinais-Financeiros/blob/master/Aula%205%20-%20Opera%C3%A7%C3%B5es%20Long%20%26%20Short%2C%20Cointegra%C3%A7%C3%A3o%20e%20Res%C3%ADduo%20Estacion%C3%A1rio.ipynb" ><p align="top">Aula 5 - Operações Long & Short</p></a>
 <p align="justify">
-Operações Long & Short baseadas no spread entre pares de ações, sendo a "aposta" a diminuição do spread a partir de um determinado ponto de distorção.
+Operações Long & Short baseadas no spread entre pares de ações, sendo a "aposta" a diminuição do spread a partir de um determinados pontos de distorções no resíduo estacionário de cointegração.
 </p>   </td>
   </tr>  
     <tr> 
